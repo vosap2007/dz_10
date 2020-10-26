@@ -10,7 +10,7 @@ const Theme = {
   DARK: 'dark-theme',
 };
 
-
+/*рп*/
 const markup = cardsMenu(e);
 galleryRef.insertAdjacentHTML('beforeend', markup)
 
